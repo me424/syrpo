@@ -1,0 +1,15 @@
+C:\Users\Зилия\Desktop\all\syrpo\syrpo\bin\Debug\net6.0\syrpo.exe
+C:\Users\Зилия\Desktop\all\syrpo\syrpo\bin\Debug\net6.0\syrpo.deps.json
+C:\Users\Зилия\Desktop\all\syrpo\syrpo\bin\Debug\net6.0\syrpo.runtimeconfig.json
+C:\Users\Зилия\Desktop\all\syrpo\syrpo\bin\Debug\net6.0\syrpo.dll
+C:\Users\Зилия\Desktop\all\syrpo\syrpo\bin\Debug\net6.0\syrpo.pdb
+C:\Users\Зилия\Desktop\all\syrpo\syrpo\obj\Debug\net6.0\syrpo.csproj.AssemblyReference.cache
+C:\Users\Зилия\Desktop\all\syrpo\syrpo\obj\Debug\net6.0\syrpo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Зилия\Desktop\all\syrpo\syrpo\obj\Debug\net6.0\syrpo.AssemblyInfoInputs.cache
+C:\Users\Зилия\Desktop\all\syrpo\syrpo\obj\Debug\net6.0\syrpo.AssemblyInfo.cs
+C:\Users\Зилия\Desktop\all\syrpo\syrpo\obj\Debug\net6.0\syrpo.csproj.CoreCompileInputs.cache
+C:\Users\Зилия\Desktop\all\syrpo\syrpo\obj\Debug\net6.0\syrpo.dll
+C:\Users\Зилия\Desktop\all\syrpo\syrpo\obj\Debug\net6.0\refint\syrpo.dll
+C:\Users\Зилия\Desktop\all\syrpo\syrpo\obj\Debug\net6.0\syrpo.pdb
+C:\Users\Зилия\Desktop\all\syrpo\syrpo\obj\Debug\net6.0\syrpo.genruntimeconfig.cache
+C:\Users\Зилия\Desktop\all\syrpo\syrpo\obj\Debug\net6.0\ref\syrpo.dll
