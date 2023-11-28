@@ -6,5 +6,7 @@ class Program
     {
         Console.WriteLine("Hello, World!!!!!!!!!!!!");
         Console.WriteLine("!!!!!!!!!!!!");
+        Console.WriteLine('не баг а фича');
+
     }
 }
